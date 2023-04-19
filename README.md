@@ -1,5 +1,7 @@
 ### My [Arch-Linux](https://archlinux.org/) dotfiles for [HyprlandWM](https://wiki.hyprland.org/Getting-Started/Installation/).
 
+![Alpha](https://github.com/Gl00ria/dots_hyprland/blob/main/showcase/hyper_dots)
+
 ##### Requirements
 
 - [qt5-wayland](https://github.com/Geo25rey/qt5-wayland) & [qt6-wayland](https://github.com/deepin-community/qt6-wayland): Cross-platform application and UI framewok.
